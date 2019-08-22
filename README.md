@@ -10,3 +10,5 @@ Nous avons
 - simplification du tableau des logs
 
 L'adaptation a été faite avec le soutien du projet Fiches de lecture Foucault : https://ffl.hypotheses.org
+
+Plugin réalisé pour la plate-forme EMAN (Item, ENS-CNRS) par Vincent Buard [(Numerizen)](http://numerizen.com).
